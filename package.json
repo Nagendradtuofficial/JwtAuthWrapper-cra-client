@@ -2,6 +2,9 @@
   "name": "jwtauthwrapper-cra",
   "version": "0.1.0",
   "private": true,
+  "types": "src/jwtauthwrapper.d.ts",
+  "main": "src/jwtauthwrapper.js",
+  "author": "V V S D Nagendra Anala",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
